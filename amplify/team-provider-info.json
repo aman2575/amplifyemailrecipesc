@@ -1,0 +1,24 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-contactformuploader-dev-182638-authRole",
+      "UnauthRoleArn": "arn:aws:iam::418791858139:role/amplify-contactformuploader-dev-182638-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::418791858139:role/amplify-contactformuploader-dev-182638-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-contactformuploader-dev-182638-deployment",
+      "UnauthRoleName": "amplify-contactformuploader-dev-182638-unauthRole",
+      "StackName": "amplify-contactformuploader-dev-182638",
+      "StackId": "arn:aws:cloudformation:eu-west-2:418791858139:stack/amplify-contactformuploader-dev-182638/d7ada9f0-3012-11ec-8644-068ea149db36",
+      "AmplifyAppId": "d2czalxsl6ho9l"
+    },
+    "categories": {
+      "function": {
+        "contactformuploader": {
+          "sesEmail": "g1aman.singh2575@gmail.com",
+          "deploymentBucketName": "amplify-contactformuploader-dev-182638-deployment",
+          "s3Key": "amplify-builds/contactformuploader-534a2b4d4b4b456c3074-build.zip"
+        }
+      }
+    }
+  }
+}
